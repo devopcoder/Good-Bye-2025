@@ -1,0 +1,7 @@
+body{background:#0d0d0d;color:#bfbfbf;font-family:Segoe UI,sans-serif;padding:40px}
+header{text-align:center;margin-bottom:40px}
+h1{font-size:4em;letter-spacing:8px}
+input,textarea{width:100%;background:#111;color:#ccc;border:1px solid #222;padding:12px;margin-bottom:20px}
+button{background:none;color:#888;border:1px solid #333;padding:10px 20px}
+.memory{border-left:2px solid #333;padding-left:20px;margin-bottom:30px;opacity:0;animation:fadeIn 1.5s forwards}
+@keyframes fadeIn{to{opacity:1}}footer{text-align:center;color:#555;font-size:.8em}
